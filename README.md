@@ -5,7 +5,7 @@
 ## About
 - :mortar_board: B.Sc in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en).
 - 🎯 I'm currently focusing on Deep Learning.
-- 💡 I'm intersted in Machine Learning, Data Mining and Web Development.
+- 💡 I'm intersted in Machine Learning, Data Mining and Automation.
 -   :zap:	I also:
      -    🥋 Train on Ju Jitsu & Judo.
      -    :pencil2: Sketch.
