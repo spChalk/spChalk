@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi, I'm Spiros <img src="https://github.com/spChalk/spChalk/blob/main/waving.gif" width="40px"></h1>
+  <h1> Hi, I'm Spiros 👋 </h1>
 </div>
 
 ## About
