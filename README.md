@@ -3,7 +3,7 @@
 </div>
 
 ## About
-- :mortar_board: B.Sc in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en).
+- :mortar_board: B.Sc with Honors in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en).
 - 🎯 I'm currently focusing on Deep Learning.
 - 💡 I'm intersted in Machine Learning, Data Mining and Automation.
 -   :zap:	I also:
